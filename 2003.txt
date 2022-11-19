@@ -1,0 +1,277 @@
+Hny 1  (2-03)
+ 
+ 
+ 
+ 
+Honey
+ 
+ 
+National Agricultural Statistics Service
+USDA
+Washington, D.C.
+ 
+ 
+Released February 28, 2003, by the National Agricultural Statistics
+Service (NASS), Agricultural Statistics Board, U.S. Department of
+Agriculture.  For information on "Honey" call Jody Roberts at (202)
+690-8632, office hours 7:30 a.m. to 4:00 p.m. ET.
+ 
+ 
+ 
+        United States Honey Production Down 8 Percent
+ 
+Honey production in 2002 from producers with five or more colonies
+totaled 171 million pounds, down 8 percent from 2001.  There were 2.52
+million colonies producing honey in 2002, up 1 percent from 2001.  Yield
+per colony averaged 67.8 pounds, down 8 percent from the 74.0 pounds in
+2001.  Colonies which produced honey in more than one State were counted
+in each State and yields per colony may therefore be understated.
+Colonies were not included if honey was not harvested.  Producer honey
+stocks were 39.0 million pounds on December 15, 2002, down 40 percent
+from a year earlier.  Stocks held by producers exclude stocks held under
+the commodity loan program.
+ 
+ 
+                 Honey Prices Record High
+ 
+Honey prices increased to a record high during 2002 to 128.6 cents, up 83
+percent from 70.4 cents in 2001.  Prices are based on retail sales by
+producers and sales to private processors and cooperatives.  State level
+honey prices reflect the portions of honey sold through retail, co-op and
+private channels.  U.S.  honey prices for each color class are derived by
+weighing quantities sold for each marketing channel at the U.S. level.
+Honey prices for 2002 were higher than the previous year for all color
+classes.  Some 2001 crop honey was sold at the higher prices in 2002,
+which caused some revisions to the 2001 crop prices.
+ 
+ 
+ 
+              Honey:  Price by Color Class, United States, 2001-02
+--------------------------------------------------------------------------------
+                    :                           Price
+                    :-----------------------------------------------------------
+     Color Class    : Co-op and Private :      Retail       :        All
+                    :-----------------------------------------------------------
+                    :  2001   :  2002   :  2001   :  2002   :  2001   :  2002
+--------------------------------------------------------------------------------
+                    :                      Cents per Pound
+                    :
+Water White,        :
+ Extra White, White :  68.7      136.1     133.6     146.3     70.6      136.4
+                    :
+Extra Light Amber   :  66.9      123.0     132.0     131.0     70.5      123.5
+                    :
+Light Amber,        :
+ Amber, Dark Amber  :  62.3      115.1     150.8     149.9     69.5      118.7
+                    :
+All Other Honey,    :
+ Area Specialties   :  64.5      111.1     160.4     187.9     80.9      120.6
+                    :
+All Honey           :  66.6      127.5     142.0     145.4     70.4      128.6
+--------------------------------------------------------------------------------
+ 
+ 
+ 
+ 
+          Honey:  Number of Colonies, Yield, Production, Stocks, Price,
+                  and Value by State and United States, 2001 1/
+--------------------------------------------------------------------------------
+           :   Honey   :  Yield  :          :          : Average :    Value
+   State   : Producing :   per   :Production:  Stocks  :Price per:      of
+           : Colonies  : Colony  :          :Dec 15 2/ :Pound 3/ :  Production
+--------------------------------------------------------------------------------
+           :   1,000     Pounds    -- 1,000 Pounds --     Cents   1,000 Dollars
+           :
+AL         :      14       73        1,022        235      72            736
+AZ         :      43       59        2,537      1,142      72          1,827
+AR         :      58       98        5,684      1,876      65          3,695
+CA         :     425       65       27,625      7,735      69         19,061
+CO         :      26       55        1,430        529      71          1,015
+FL         :     220      100       22,000      3,432      64         14,080
+GA         :      55       57        3,135        188      70          2,195
+HI         :       8       87          696         84      87            606
+ID         :     100       46        4,600      1,610      67          3,082
+IL         :       6       76          456        251     158            720
+IN         :       7       76          532        186      92            489
+IA         :      33       51        1,683        875      75          1,262
+KS         :      13       51          663        530      96            636
+KY         :       3       78          234         94     141            330
+LA         :      45      106        4,770        572      60          2,862
+ME         :      11       20          220        106      79            174
+MD         :       4       46          184         55     160            294
+MI         :      76       60        4,560      2,827      81          3,694
+MN         :     135       81       10,935      1,859      65          7,108
+MS         :      17       66        1,122        224      89            999
+MO         :      25       61        1,525        381      71          1,083
+MT         :     136      102       13,872      4,578      67          9,294
+NE         :      43       48        2,064      1,115      72          1,486
+NV         :       9       50          450         36     214            963
+NJ         :      11       34          374         71      85            318
+NM         :      10       70          700        350      66            462
+NY         :      53       70        3,710      1,781      79          2,931
+NC         :      13       44          572        172     148            847
+ND         :     280       96       26,880      9,408      69         18,547
+OH         :      16       81        1,296        505     101          1,309
+OK         :       4       47          188        105     143            269
+OR         :      44       44        1,936      1,200      74          1,433
+PA         :      17       57          969        514      92            891
+SC         :       7       40          280         67      79            221
+SD         :     235       65       15,275     12,220      71         10,845
+TN         :       8       59          472        131     139            656
+TX         :      97       79        7,663      1,533      65          4,981
+UT         :      23       38          874        315      65            568
+VT         :       7       81          567        249      92            522
+VA         :       9       52          468         94     126            590
+WA         :      42       52        2,184        917      72          1,572
+WV         :       7       65          455        410     142            646
+WI         :      67       81        5,427      3,419      82          4,450
+WY         :      38       77        2,926        468      65          1,902
+           :
+Oth        :
+ Sts 4/ 5/ :       6       41          246        107     233            574
+           :
+US 5/      :   2,506       74.0    185,461     64,556      70.4      132,225
+--------------------------------------------------------------------------------
+1/  For producers with 5 or more colonies.  Colonies which produced honey in
+more than one State were counted in each State.  2/  Stocks held by producers.
+3/  Prices weighted by sales.  4/  CT, DE, MA, NH, and RI not published
+separately to avoid disclosing data for individual operations.  5/  Total
+colonies multiplied by total yield may not exactly equal production.
+ 
+ 
+ 
+ 
+          Honey:  Number of Colonies, Yield, Production, Stocks, Price,
+                  and Value by State and United States, 2002 1/
+--------------------------------------------------------------------------------
+           :   Honey   :  Yield  :          :          : Average :    Value
+   State   : Producing :   per   :Production:  Stocks  :Price per:      of
+           : Colonies  : Colony  :          :Dec 15 2/ :Pound 3/ :  Production
+--------------------------------------------------------------------------------
+           :   1,000     Pounds    -- 1,000 Pounds --     Cents   1,000 Dollars
+           :
+AL         :      12       86        1,032        103     111          1,146
+AZ         :      38       63        2,394      1,197     110          2,633
+AR         :      55       88        4,840      1,065     124          6,002
+CA         :     440       53       23,320      3,498     129         30,083
+CO         :      24       60        1,440        576     122          1,757
+FL         :     220       93       20,460      2,026     112         22,915
+GA         :      50       52        2,600         52     110          2,860
+HI         :       7      136          952         29     110          1,047
+ID         :     100       57        5,700      1,653     135          7,695
+IL         :       9       80          720        130     142          1,022
+IN         :       8       62          496        233     114            565
+IA         :      33       70        2,310        901     137          3,165
+KS         :      17       52          884        407     156          1,379
+KY         :       3       54          162         47     165            267
+LA         :      35      124        4,340        347     114          4,948
+ME         :      11       41          451        266     121            546
+MD         :       3       46          138         21     175            242
+MI         :      72       77        5,544      1,885     134          7,429
+MN         :     117       73        8,541      1,110     142         12,128
+MS         :      18       78        1,404        281     118          1,657
+MO         :      18       53          954        200     137          1,307
+MT         :     134       63        8,442      1,097     135         11,397
+NE         :      43       75        3,225      1,161     145          4,676
+NV         :       9       62          558         61     227          1,267
+NJ         :      10       35          350         74      98            343
+NM         :      11       44          484        252     109            528
+NY         :      60       98        5,880      2,470     117          6,880
+NC         :      14       51          714         86     136            971
+ND         :     320       75       24,000      8,160     142         34,080
+OH         :      16       81        1,296        518     140          1,814
+OK         :       3       53          159         51     160            254
+OR         :      39       49        1,911        803     128          2,446
+PA         :      18       57        1,026        513     130          1,334
+SC         :       5       94          470         14     125            588
+SD         :     225       51       11,475      2,410     140         16,065
+TN         :       8       61          488        137     137            669
+TX         :     114       67        7,638        985     109          8,325
+UT         :      22       59        1,298        208     129          1,674
+VT         :       7       89          623        274     119            741
+VA         :       7       38          266         69     186            495
+WA         :      44       51        2,244        494     125          2,805
+WV         :       9       51          459        151     137            629
+WI         :      70       95        6,650      2,461     130          8,645
+WY         :      38       63        2,394        383     139          3,328
+           :
+Oth        :
+ Sts 4/ 5/ :       8       51          408        188     218            891
+           :
+US 5/      :   2,524       67.8    171,140     39,047     128.6      221,638
+--------------------------------------------------------------------------------
+1/  For producers with 5 or more colonies.  Colonies which produced honey in
+more than one State were counted in each State.  2/  Stocks held by producers.
+3/  Prices weighted by sales.  4/  CT, DE, MA, NH, and RI not published
+separately to avoid disclosing data for individual operations.  5/  Total
+colonies multiplied by total yield may not exactly equal production.
+ 
+ 
+ 
+The next "Honey" report will be released in 2004.
+ 
+ 
+ 
+ 
+The United States Department of Agriculture (USDA) prohibits
+discrimination in all its programs on the basis of race, color, national
+origin, gender, religion, age, disability, political beliefs, sexual
+orientation, and marital or family status.  (Not all prohibited bases
+apply to all programs.)  Persons with disabilities who require
+alternative means for communication of program information (braille,
+large print, audiotape, etc.) should contact the USDA's TARGET Center at
+202-720-2600 (voice and TDD).
+ 
+To file a complaint of discrimination, write USDA, Director, Office of
+Civil Rights, Room 326-W, Whitten Building, 1400 Independence Avenue, SW,
+Washington, D.C., 20250-9410, or call 202-720-5964 (voice or TDD).  USDA
+is an equal opportunity provider and employer.
+ 
+                    ACCESS TO REPORTS!!
+ 
+ 
+ 
+For your convenience, there are several ways to obtain NASS reports, data
+products, and services:
+ 
+                       INTERNET ACCESS
+ 
+All NASS reports are available free of charge on the worldwide Internet.
+For access, connect to the Internet and go to the NASS Home Page at:
+http:/www.usda.gov/nass/.  Select "Today's Reports" or Publications and
+then Reports Calendar or Publications and then Search, by Title or
+Subject.
+ 
+                     E-MAIL SUBSCRIPTION
+ 
+All NASS reports are available by subscription free of charge direct to
+your e-mail address.  Starting with the NASS Home Page at
+http:/www.usda.gov/nass/, click on Publications, then click on the
+Subscribe by E-mail button which takes you to the page describing e-mail
+delivery of reports.  Finally, click on Go to the Subscription Page and
+follow the instructions.
+ 
+                       AUTOFAX ACCESS
+ 
+NASSFax service is available for some reports from your fax machine.
+Please call 202-720-2000, using the handset attached to your fax.
+Respond to the voice prompts.  Document 0411 is a list of available
+reports.
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+             PRINTED REPORTS OR DATA PRODUCTS
+ 
+CALL OUR TOLL-FREE ORDER DESK:   800-999-6779 (U.S. and Canada)
+Other areas, please call 703-605-6220                FAX:  703-605-6900
+(Visa, MasterCard, check, or money order acceptable for payment.)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 
+                        ASSISTANCE
+ 
+For assistance with general agricultural statistics or further
+information about NASS or its products or services, contact the
+Agricultural Statistics Hotline at 800-727-9540, 7:30 a.m. to 4:00 p.m.
+ET, or e-mail: nass@nass.usda.gov.
+ 
+ 
+ 
+ 
